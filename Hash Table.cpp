@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-using namespace std;
+
 template <typename K, typename V>
 class HashTable {
 private:
